@@ -9,3 +9,4 @@ projects in the works. Most are listed here as public repositories - feel free t
 
 📣 twitter: @outlawhayden_
 
+💼 linkedin: https://www.linkedin.com/in/hayden-outlaw/
